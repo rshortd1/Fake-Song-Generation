@@ -9,4 +9,7 @@ You need to have the following python libraries installed to make this work, pan
 It will look like a hacker terminal shell. now with python installed just do "pip install" then the name of the library like for example pip install pandas . give it a second and it will start to load.
   
 Then when vs code, python and pandas installed, make sure the csv data file is downloaded then change the path in the code from where it is now file_path = r"C:\Users\User\Desktop\Data\billboard_hot_100.csv" to where it is saved on your computer inside the quotes, please note that your computer uses forward slashes / if you copy the path but python requires backslashes \ 
-  
+
+
+
+<img width="384" alt="sample output songs" src="https://github.com/rshortd1/Fake-Song-Generation/assets/81539237/ab91ac96-f322-49f2-8e19-50552818f25b">
