@@ -1,3 +1,6 @@
+Billboard hot 100 data from UT Austin, go here for latest data (https://github.com/utdata/rwd-billboard-data/tree/main)
+
+
 I know github can be confusing for many (I'm still not great at it) so wanted to make the project easy to approach for people that don't know github.
 To use this, download the main_code (or you can just open it and copy and paste it into vscode), you must have python installed, and somewhere to run the code (I suggest Microsoft VS code for beginners).
 you need to have the following python libraries installed to make this work, pandas, markovify, tkinter, random and re. To install a python library, search for a program on your computer called command prompt
